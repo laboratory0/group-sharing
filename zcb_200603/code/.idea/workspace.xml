@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc84bff3-aa2d-44f8-a139-32483b17786e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ceZteq29l9SUhG2BHRyzhWzbQy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NMS_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NMS_zoo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NMS_zoo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc84bff3-aa2d-44f8-a139-32483b17786e" name="Default Changelist" comment="" />
+      <created>1590891235522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590891235522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1260" height="190" key="GridCell.Tab.0.bottom" timestamp="1590892761264">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1260" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760/2560.323.1440.860@0.0.1280.760" timestamp="1590892761264" />
+    <state width="1260" height="190" key="GridCell.Tab.0.center" timestamp="1590892761264">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1260" height="190" key="GridCell.Tab.0.center/0.0.1280.760/2560.323.1440.860@0.0.1280.760" timestamp="1590892761264" />
+    <state width="1260" height="190" key="GridCell.Tab.0.left" timestamp="1590892761264">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1260" height="190" key="GridCell.Tab.0.left/0.0.1280.760/2560.323.1440.860@0.0.1280.760" timestamp="1590892761264" />
+    <state width="1260" height="190" key="GridCell.Tab.0.right" timestamp="1590892761264">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1260" height="190" key="GridCell.Tab.0.right/0.0.1280.760/2560.323.1440.860@0.0.1280.760" timestamp="1590892761264" />
+    <state x="142" y="22" key="SettingsEditor" timestamp="1590891274553">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="142" y="22" key="SettingsEditor/0.0.1280.760/2560.323.1440.860@0.0.1280.760" timestamp="1590891274553" />
+  </component>
+</project>
